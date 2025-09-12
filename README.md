@@ -150,6 +150,7 @@ Most nutrient-dense items are salads or grilled chicken options. Sonic's Ultimat
 
 **Download the interactive Power BI report:**
 
-![PowerBI Dashboard](FastFood_Nutrition_Analysis.pbix)
+[PowerBI Dashboard](FastFood_Nutrition_Analysis.pbix)
+
 
 
