@@ -16,7 +16,7 @@ The goal is to uncover the nutritional risks of popular fast-food meals and high
 
 ## Tools and Libraries
 - **Python (Pandas, Numpy)** - data cleaning and wrangling
-- **Power BI** - Visualization and Analyzation
+- **Power BI** - visualization and analysis
 
 ---
 
@@ -155,6 +155,7 @@ Most nutrient-dense items are salads or grilled chicken options. Sonic's Ultimat
 **Check the data cleaning notebook:**
 
 [Data Cleaning and Wrangling](data_cleaning.ipynb)
+
 
 
 
