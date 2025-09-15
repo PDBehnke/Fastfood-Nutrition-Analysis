@@ -3,7 +3,7 @@
 **Executive Summary:**  
 This project explores the nutrition content of major US fast-food chains, focusing on calories, sodium, and protein efficiency. Results show that many menu items go far beyond daily recommended limits, while only a few grilled or salad options stand out as healthier choices. Overall, the analysis highlights the nutritional risks of fast food and points to better alternatives within the menus.  
 
-Data from [Kaggle](https://www.kaggle.com/datasets/ulrikthygepedersen/fastfood-nutrition/data).
+Dataset from [Kaggle](https://www.kaggle.com/datasets/ulrikthygepedersen/fastfood-nutrition/data).
 
 ---
 
@@ -158,6 +158,7 @@ Most nutrient-dense items are salads or grilled chicken options. Sonic's Ultimat
 **Check the data cleaning notebook:**
 
 [Data Cleaning and Wrangling](data_cleaning.ipynb)
+
 
 
 
